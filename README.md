@@ -1,4 +1,4 @@
-# Weather Data Analysis — AI/ML Foundations Assignment
+# Weather Data Analysis - AI/ML Foundations Assignment
 
 ## Overview
 Exploratory data analysis and Python data handling project using a real-world 
